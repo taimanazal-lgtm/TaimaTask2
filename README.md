@@ -2,6 +2,8 @@
 
 # Hi, I'm Taima Nazal 
 
+Git & GitHub Practice Repository
+
 ## About Me
 -  Computer Engineering Student at Birzeit University
 -  Interested in Backend Development, Networking, and AI
