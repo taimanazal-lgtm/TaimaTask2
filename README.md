@@ -15,6 +15,17 @@
 - Tools: Git, GitHub, Linux, Docker (Basic)
 
 ## Contact
--  Email: info@nextflows.a
+-  Email: info@nextflows.ai
 -  Personal Email: taimanazal81@gmail.com
 -  GitHub: https://github.com/taimanazal-lgtm
+
+## Academy Website
+https://academy.nextflows.ai
+
+## How to Run
+
+1. Clone the repository
+git clone https://github.com/taimanazal-lgtm/TaimaTask2.git
+2. Navigate to the project folder
+cd TaimaTask2
+3. Open the project files.
